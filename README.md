@@ -1,4 +1,4 @@
-# Claudete 
+# IVAN/DANI 
 
 <h1 align="center"> Projeto Inteligencia Artificial IVAN & DANI </h1>
 
