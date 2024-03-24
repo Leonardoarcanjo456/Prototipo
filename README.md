@@ -3,7 +3,8 @@
 <h1 align="center"> Projeto Inteligencia Artificial IVAN & DANI </h1>
 
 <p align="center">
-programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+  
+  
 </p>
 
 <p align="center">
